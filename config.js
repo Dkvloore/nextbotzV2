@@ -46,13 +46,13 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6283157116089'
 global.nomorown = '6285654850719'
-global.namebot = 'NekoBotz'
-global.nameown = 'DanZzz'
+global.namebot = '𝓝𝓮𝔃𝔂𝓑𝓸𝓽'
+global.nameown = 'ᴰᵃⁿᶻᶻ'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6285654850719', 'DanZzz', 'true']
+  ['6285654850719', 'ᴰᵃⁿᶻᶻ', 'true']
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -98,18 +98,18 @@ global.APIKeys = { // APIKey Here
 }
 
 /*============== APIKEY ================*/
-global.bear = 'tblh2MPi'
+global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By NekoBotz' //Main Watermark
-global.wm2 = 'DanZzz'
-global.wm3 = 'NekoBotz | By DanZzz'
+global.wm = 'By 𝓝𝓮𝔃𝔂𝓑𝓸𝓽' //Main Watermark
+global.wm2 = 'ᴰᵃⁿᶻᶻ'
+global.wm3 = '𝓝𝓮𝔃𝔂𝓑𝓸𝓽 | By ᴰᵃⁿᶻᶻ'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `NekoBotz | ʙʏ ${global.nameown}`
-global.author = 'DanZzz' 
-global.packname = 'Dann'
+global.author = 'ᴰᵃⁿᶻᶻ' 
+global.packname = 'ᴰᵃⁿᶻᶻ'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
 global.ultahowner = 'Desember 02 2023'
 
@@ -126,9 +126,9 @@ global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.botintro = 'Hallo, Kenalin saya NekoBotz Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh DanZzz Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
-global.nameowner = 'dan'
+global.nameowner = 'ᴰᵃⁿᶻᶻ'
 global.umurowner = '17'
-global.asalowner = 'Jawah, ngawi'
+global.asalowner = 'Jawah timur, ngawi'
 global.nomorowner = 'wa.me/6285654850719'
 global.pacarowner = 'Gpunya'
 
